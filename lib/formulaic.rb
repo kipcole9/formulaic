@@ -1,0 +1,3 @@
+module Formulaic
+  # Your code goes here...
+end
